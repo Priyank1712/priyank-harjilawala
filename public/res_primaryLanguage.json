@@ -97,22 +97,50 @@
     ],
     "experience": [
       {
+        "company": "Finfare Inc.",
+        "title": "Frontend Engineer",
+        "years": "09/2023 - 01/2026",
+        "mainTech": [
+          "React",
+          "Node.js",
+          "Express.js",
+          "Spring Boot"
+        ],
+        "technologies": [
+          "React",
+          "React Native",
+          "Redux",
+          "Node.js",
+          "Express.js",
+          "Prisma ORM",
+          "Spring Boot",
+          "Monorepo",
+          "Amplify",
+          "Cognito",
+          "S3",
+          "EC2"
+        ]
+      },
+      {
         "company": "Netizens Technologies",
         "title": "Full Stack Developer",
         "years": "06/2022 - 02/2023",
         "mainTech": [
           "React",
           "Node.js",
-          "AdonisJs",
-          "PostgreSQL"
+          "Express.js",
+          "AdonisJs"
         ],
         "technologies": [
           "REST API",
           "React",
           "Redux",
           "Node.js",
+          "Express.js",
           "AdonisJs",
           "PostgreSQL",
+          "Firebase",
+          "CapacitorJs",
           "Docker",
           "Redis",
           "Socket.io",
@@ -126,11 +154,13 @@
         "mainTech": [
           "React",
           "Node.js",
+          "Express.js",
           "PostgreSQL"
         ],
         "technologies": [
           "React.js",
           "Node.js",
+          "Express.js",
           "PostgreSQL",
           "PHP",
           "phpMyAdmin",
@@ -143,29 +173,7 @@
         ]
       },
       {
-        "company": "Suven Consultants & Technology Pvt. Ltd.",
-        "title": "Web Developer Intern",
-        "years": "06.2021 - 07.2021",
-        "mainTech": [
-          "HTML5",
-          "CSS3",
-          "JavaScript",
-          "PHP",
-          "phpMyAdmin"
-        ],
-        "technologies": [
-          "HTML5",
-          "CSS3",
-          "JavaScript",
-          "Bootstrap",
-          "jQuery",
-          "AJAX",
-          "PHP",
-          "phpMyAdmin"
-        ]
-      },
-      {
-        "company": "Freelancing",
+        "company": "Self-Employed",
         "title": "Freelance Web Developer",
         "years": "01.2021 - 12.2021",
         "mainTech": [
