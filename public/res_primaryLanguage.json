@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Priyank Harjilawala. Experienced full stack developer skilled in front-end and back-end development, with a strong portfolio showcasing diverse web applications. Problem-solving mindset and collaborative nature. Seeking new opportunities to contribute and drive innovation. Thank you 💜",
+      "description": "I’m Priyank Harjilawala, a full-stack engineer focused on building scalable, performant web applications. I enjoy solving real product problems, working across frontend and backend, and collaborating with teams to ship high-quality features. Currently exploring new opportunities to contribute and grow 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,14 +11,73 @@
     },
     "projects": [
       {
+        "title": "Finfare Money - Web Application",
+        "startDate": "2023",
+        "description": "A production-grade fintech web application for businesses to manage corporate cards, payments, expenses, and financial insights. I worked as a full-stack engineer, building scalable, data-heavy frontend experiences and contributing to backend services while collaborating closely with product and design teams.",
+        "images": [
+          "images/portfolio/finfare-money-webapp/admin-dashboard.png",
+          "images/portfolio/finfare-money-webapp/financial-insights.png",
+          "images/portfolio/finfare-money-webapp/cards-page.png"
+        ],
+        "url": "https://www.business.finfare.com",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-spring-original",
+            "name": "Spring Boot"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain",
+            "name": "AWS"
+          }
+        ]
+      },
+      {
+        "title": "Finfare Money - Mobile Application",
+        "startDate": "2025",
+        "description": "A mobile-first fintech application enabling users to manage corporate cards, payments, and transactions on the go. I worked on building intuitive, performant mobile experiences focused on real-time actions such as card controls, payment visibility, and transaction tracking, while ensuring consistency with the core Finfare Money platform.",
+        "images": [
+          "images/portfolio/finfare-money-mobile-app/admin-dashboard.png",
+          "images/portfolio/finfare-money-mobile-app/my-cards.png",
+          "images/portfolio/finfare-money-mobile-app/payments.png",
+          "images/portfolio/finfare-money-mobile-app/transactions-search.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-reactnative-original",
+            "name": "React Native"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-xcode-plain",
+            "name": "Xcode"
+          }
+        ]
+      },
+      {
         "title": "Stembotix",
         "startDate": "2022",
-        "description": "The most expanded application I had opportunity to work with. I've learned next.js and my code was reviewed by awesome curator. Application handles selling and buying courses and products to streaming of live learning sessions.",
+        "description": "A production EdTech platform for selling online courses, digital products, and hosting live learning sessions. I contributed to both frontend and backend development, building scalable Next.js pages, integrating APIs, handling authentication, and supporting data-driven workflows for course and product management.",
         "images": [
           "images/portfolio/stembotix/homepage.jpg",
           "images/portfolio/stembotix/about.jpg"
         ],
-        "url": "",
+        "url": "https://www.stembotix.com",
         "technologies": [
           {
             "class": "devicon-nextjs-plain",
@@ -39,34 +98,15 @@
         ]
       },
       {
-        "title": "Kanban Board",
-        "startDate": "2022",
-        "description": "A project management software for my previous organization that manages the projects and its tasks using kanban drag and drop.",
-        "images": [
-          "images/portfolio/kanban/tasks.jpg",
-          "images/portfolio/kanban/add_task.jpg"
-        ],
-        "url": "https://netizens-kanban.web.app/",
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "React.js"
-          },
-          {
-            "class": "devicon-firebase-plain",
-            "name": "Firebase"
-          }
-        ]
-      },
-      {
         "title": "Protapp",
         "startDate": "2022",
-        "description": "A customizable digital business card using NFC technology. A user can just tap the card at back of the mobile and device and open a digital business card in the browser. For devices that do not support NFC technology, a QR code printed on a card can be scanned.",
+        "description": "A digital business card platform that allows users to create, customize, and share profiles using NFC-enabled cards or QR codes. I built the end-to-end web application, including user dashboards, card management, profile rendering, and publishing flows, enabling seamless contact sharing across devices.",
         "images": [
+          "images/portfolio/protapp/dashboard.jpg",
           "images/portfolio/protapp/viewCard.png",
-          "images/portfolio/protapp/dashboard.jpg"
+          "images/portfolio/protapp/editCard.png"
         ],
-        "url": "https://dashboard.protapp.co/viewCard/john_doe",
+        "url": "",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -97,22 +137,50 @@
     ],
     "experience": [
       {
+        "company": "Finfare Inc.",
+        "title": "Frontend Engineer",
+        "years": "09/2023 - 01/2026",
+        "mainTech": [
+          "React",
+          "Node.js",
+          "Express.js",
+          "Spring Boot"
+        ],
+        "technologies": [
+          "React",
+          "React Native",
+          "Redux",
+          "Node.js",
+          "Express.js",
+          "Prisma ORM",
+          "Spring Boot",
+          "Monorepo",
+          "Amplify",
+          "Cognito",
+          "S3",
+          "EC2"
+        ]
+      },
+      {
         "company": "Netizens Technologies",
         "title": "Full Stack Developer",
         "years": "06/2022 - 02/2023",
         "mainTech": [
           "React",
           "Node.js",
-          "AdonisJs",
-          "PostgreSQL"
+          "Express.js",
+          "AdonisJs"
         ],
         "technologies": [
           "REST API",
           "React",
           "Redux",
           "Node.js",
+          "Express.js",
           "AdonisJs",
           "PostgreSQL",
+          "Firebase",
+          "CapacitorJs",
           "Docker",
           "Redis",
           "Socket.io",
@@ -126,11 +194,13 @@
         "mainTech": [
           "React",
           "Node.js",
+          "Express.js",
           "PostgreSQL"
         ],
         "technologies": [
           "React.js",
           "Node.js",
+          "Express.js",
           "PostgreSQL",
           "PHP",
           "phpMyAdmin",
@@ -143,29 +213,7 @@
         ]
       },
       {
-        "company": "Suven Consultants & Technology Pvt. Ltd.",
-        "title": "Web Developer Intern",
-        "years": "06.2021 - 07.2021",
-        "mainTech": [
-          "HTML5",
-          "CSS3",
-          "JavaScript",
-          "PHP",
-          "phpMyAdmin"
-        ],
-        "technologies": [
-          "HTML5",
-          "CSS3",
-          "JavaScript",
-          "Bootstrap",
-          "jQuery",
-          "AJAX",
-          "PHP",
-          "phpMyAdmin"
-        ]
-      },
-      {
-        "company": "Freelancing",
+        "company": "Self-Employed",
         "title": "Freelance Web Developer",
         "years": "01.2021 - 12.2021",
         "mainTech": [
