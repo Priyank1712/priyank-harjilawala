@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/priyank-harjilawala/static/css/main.db76a3b0.chunk.css",
-    "main.js": "/priyank-harjilawala/static/js/main.b8e579a9.chunk.js",
-    "main.js.map": "/priyank-harjilawala/static/js/main.b8e579a9.chunk.js.map",
+    "main.css": "/priyank-harjilawala/static/css/main.fbc6fb7c.chunk.css",
+    "main.js": "/priyank-harjilawala/static/js/main.23acbc8e.chunk.js",
+    "main.js.map": "/priyank-harjilawala/static/js/main.23acbc8e.chunk.js.map",
     "runtime-main.js": "/priyank-harjilawala/static/js/runtime-main.60525c8c.js",
     "runtime-main.js.map": "/priyank-harjilawala/static/js/runtime-main.60525c8c.js.map",
     "static/css/2.d64471e2.chunk.css": "/priyank-harjilawala/static/css/2.d64471e2.chunk.css",
-    "static/js/2.8fb98f74.chunk.js": "/priyank-harjilawala/static/js/2.8fb98f74.chunk.js",
-    "static/js/2.8fb98f74.chunk.js.map": "/priyank-harjilawala/static/js/2.8fb98f74.chunk.js.map",
+    "static/js/2.aae2baae.chunk.js": "/priyank-harjilawala/static/js/2.aae2baae.chunk.js",
+    "static/js/2.aae2baae.chunk.js.map": "/priyank-harjilawala/static/js/2.aae2baae.chunk.js.map",
     "index.html": "/priyank-harjilawala/index.html",
-    "precache-manifest.930bc6e68c1bcf44ed03438b63cf8681.js": "/priyank-harjilawala/precache-manifest.930bc6e68c1bcf44ed03438b63cf8681.js",
+    "precache-manifest.ad608a0cb61a653cc0b812d1d533aea1.js": "/priyank-harjilawala/precache-manifest.ad608a0cb61a653cc0b812d1d533aea1.js",
     "service-worker.js": "/priyank-harjilawala/service-worker.js",
     "static/css/2.d64471e2.chunk.css.map": "/priyank-harjilawala/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.db76a3b0.chunk.css.map": "/priyank-harjilawala/static/css/main.db76a3b0.chunk.css.map",
-    "static/js/2.8fb98f74.chunk.js.LICENSE.txt": "/priyank-harjilawala/static/js/2.8fb98f74.chunk.js.LICENSE.txt"
+    "static/css/main.fbc6fb7c.chunk.css.map": "/priyank-harjilawala/static/css/main.fbc6fb7c.chunk.css.map",
+    "static/js/2.aae2baae.chunk.js.LICENSE.txt": "/priyank-harjilawala/static/js/2.aae2baae.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.60525c8c.js",
     "static/css/2.d64471e2.chunk.css",
-    "static/js/2.8fb98f74.chunk.js",
-    "static/css/main.db76a3b0.chunk.css",
-    "static/js/main.b8e579a9.chunk.js"
+    "static/js/2.aae2baae.chunk.js",
+    "static/css/main.fbc6fb7c.chunk.css",
+    "static/js/main.23acbc8e.chunk.js"
   ]
 }
